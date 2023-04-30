@@ -4,7 +4,7 @@ Welcome to TennisLSTMPredictor! This project is currently under development and 
 To use TennisLSTMPredictor, clone the GitHub repository on your computer using the command:
 
 ```
-git clone https://github.com/yourusername/TennisLSTMPredictor.git
+git clone https://github.com/SimoxRide/tennisLSTMPredictor.git
 ```
 
 The project requires the installation of TensorFlow and other Python libraries. You can install all dependencies using the command:
