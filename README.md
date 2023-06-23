@@ -11,5 +11,5 @@ The project requires the installation of TensorFlow and other Python libraries. 
 ```
 pip install -r requirements.txt
 ```
-#Contributing
+# Contributing
 We are happy to welcome contributions to our developer community! To contribute, fork the repository, create a new branch, and open a pull request. Be sure to follow the contribution guidelines and test the code before submitting the pull request.
